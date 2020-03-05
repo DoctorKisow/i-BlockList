@@ -14,6 +14,11 @@ i-BlockList Rule Group Subscriptions.
 ## Updating
 1. Set rule updates to manual or automatic:
 
+## Current Rule Groups
+*Country Based*
+ cn - China                        04-MAR-2020
+ 
+ 
 ## License
 License (GPL v3.0)
 
